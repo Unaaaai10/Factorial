@@ -16,5 +16,6 @@ public class FactorialED {
 		factorial(8);
 		factorial(12);
 		factorial(5);
+		factorial(5);
 	}
 }
